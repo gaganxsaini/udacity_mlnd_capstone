@@ -20,7 +20,7 @@ The project contains following files:
 
 5. Visualization.ipynb - Contains code that acts upon the output from the final model chosen i.e. RandomForestRegressor.
 
-6. rf_output.csv - The truth values and predictions obtained by the RandomForestRegressor model. It is used in Visualization.ipynb to create free form visualization and also used to calculate R2 Score.
+6. rf_output.zip - Contains rf_output.csv. The truth values and predictions obtained by the RandomForestRegressor model. It is used in Visualization.ipynb to create free form visualization and also used to calculate R2 Score.
 
 
 
